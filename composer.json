@@ -13,5 +13,7 @@
         "psr-4": {"Kapoko\\AssetJsonReader\\": ""}
     },
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "symfony/filesystem": "^5.2"
+    }
 }
