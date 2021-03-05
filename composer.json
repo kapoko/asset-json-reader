@@ -9,6 +9,9 @@
             "email": "kasper.koman@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"Kapoko\\AssetJsonReader\\": ""}
+    },
     "minimum-stability": "stable",
     "require": {}
 }
