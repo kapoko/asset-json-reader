@@ -1,0 +1,14 @@
+{
+    "name": "kapoko/asset-json-reader",
+    "description": "Reads asset locations from a json file outputted by webpack",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kapoko",
+            "email": "kasper.koman@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
