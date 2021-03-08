@@ -21,9 +21,11 @@ class AssetJsonReader
      * 
      * @return void
      */
-    public function __construct($path) 
+    public function __construct($path = false) 
     {
-        $this->registerManifest($path);
+        if ($path) {
+            $this->registerManifest($path);
+        }
     }
 
     /**
