@@ -5,7 +5,7 @@ Reads asset locations from a json file outputted by webpack. Works well with [as
 ## Install
 
 ```sh
-composer require kapoko/asset-json-reader
+composer require kapoko/asset-json-reader:dev-main
 ```
 
 ## Usage
