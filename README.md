@@ -1,6 +1,6 @@
 # asset-json-reader
 
-Reads asset locations from a json file outputted by webpack. Works well with [asset-webpack-plugin](https://www.npmjs.com/package/assets-webpack-plugin), which stores the hashed filenames in a json file. With this package you can easily get the hashed filenames
+Reads asset locations from a json file outputted by webpack. Works well with [asset-webpack-plugin](https://www.npmjs.com/package/assets-webpack-plugin) or [webpack-manifest-plugin](https://www.npmjs.com/package/webpack-manifest-plugin), which stores the hashed filenames in a json file. With this package you can easily get the hashed filenames
 
 ## Install
 
